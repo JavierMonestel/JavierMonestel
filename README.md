@@ -1,8 +1,12 @@
 ## Hi, I'm Javier 👋
 
-**I build AI-native operating systems for founders and small teams:** the automations, integrations and internal tools that turn meetings, goals and follow-ups into work that actually ships.
+I like taking messy, real-world work and turning it into simple systems that people actually use.
 
-Before this I supported AI adoption for 80+ enterprise accounts across the U.S. and Latin America at ServiceNow. That's where I learned that the hard part isn't the model. It's turning messy conversations into owned, dated, trackable work. Now I build those systems end to end with **Claude**, the modern ops stack (**Notion · Linear · Attio · Grain · Slack**), no-code automation (**Zapier · Make · n8n**), and enough **Python and TypeScript** to fill the gaps.
+Most of my career has been on the people side of technology. At ServiceNow I helped more than 80 enterprise accounts across the U.S. and Latin America adopt AI. A lot of that job was listening: sitting with teams, understanding how they really work, and finding the places where automation would genuinely make their day better.
+
+Today I learn by building. I use Claude every day, write Python and TypeScript, and connect tools through APIs and no-code automation. Some of what I build is for work, like the projects below. Some of it is just for the people I love, like a [pixel-art game](https://github.com/JavierMonestel/cata-y-andres) I made for my family.
+
+I work in both English and Spanish, and I'm happiest when a tool I built quietly saves someone an hour.
 
 ---
 
