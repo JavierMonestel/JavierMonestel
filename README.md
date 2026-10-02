@@ -1,4 +1,4 @@
-## Hi, I'm Javier 👋
+## Hi, I'm Javier
 
 I like taking messy, real-world work and turning it into simple systems that people actually use.
 
